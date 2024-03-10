@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    padding: 10%;
+    font-size: 2rem;
+    font-family: "Roboto", sans-serif;
+    text-align: justify;
+}
+
+
+
+a {
+    /* color: steelblue; */
+    color: hsl(207, 44%, 49%);
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover, a:focus {
+    color: hsl(207, 44%, 49%, 0.8);
+    background: gold;
+    /* color: hsl(189, 44%, 49%, 0.8); */
+    /* opacity: 0.8; */
+}
+
+a:active {
+    color: red;
+}
