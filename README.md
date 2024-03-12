@@ -8,3 +8,4 @@
 ## 06 Typography
 ## 07 Styling Links
 ## 08 List Styles
+## 09 CSS Mini Project
